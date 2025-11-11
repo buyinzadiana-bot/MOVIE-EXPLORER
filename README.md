@@ -23,5 +23,5 @@ Technologies
 - Axios for API requests
 - LocalStorage for persisting favorites
 
-- ![Screenshhot](assets/screenshot.png)
+- ![Screenshhot](https://github.com/buyinzadiana-bot/MOVIE-EXPLORER/blob/35d8ae85b272b614cd32d6f4362e0f6a47abc919/Screenshot%202025-11-11%20at%2016.42.50.png)
 

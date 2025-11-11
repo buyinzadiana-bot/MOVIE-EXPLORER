@@ -23,3 +23,5 @@ Technologies
 - Axios for API requests
 - LocalStorage for persisting favorites
 
+- ![Screenshhot](assets/screenshot.png)
+

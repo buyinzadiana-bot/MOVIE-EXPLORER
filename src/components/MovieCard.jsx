@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
-import { motion } from "framer-motion";
+import { motion as Motion } from "framer-motion";
 
 export default function MovieCard({ movie, onToggleFavorite, isFavorite }) {
   return (
-    <motion.div
+    <Motion.div
       whileHover={{ scale: 1.03 }}
       className="bg-white dark:bg-gray-800 rounded-2xl shadow p-4 flex flex-col"
     >
@@ -29,6 +29,6 @@ export default function MovieCard({ movie, onToggleFavorite, isFavorite }) {
           {isFavorite(movie.id) ? "★" : "☆"} Favorite
         </button>
       </div>
-    </motion.div>
+    </Motion.div>
   );
 }

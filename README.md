@@ -1,3 +1,4 @@
+https://vercel.com/buyinzadiana-bots-projects/movie-explorer-8dkf
 Movie Explorer
 
 Movie Explorer is a Single Page Application (SPA) built with React and Vite that allows users to browse movies, view details, search, filter by category, and manage favorite movies. The app uses Tailwind CSS for styling and Framer Motion for animations.
